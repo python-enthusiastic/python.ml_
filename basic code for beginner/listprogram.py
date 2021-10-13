@@ -1,0 +1,13 @@
+"""cars=["audi","bmw","bentley","volvo","creta"]
+print(cars)
+print(cars[3])"""
+numbers=[1,5,2,3,9,4,78,52,65,71]
+"""print(numbers)
+numbers.sort()
+numbers.reverse()
+numbers.append(100)
+numbers.reverse()"""
+#print(numbers[0:1:-1])
+#numbers.insert(5,99)
+numbers.pop()
+print(numbers)
