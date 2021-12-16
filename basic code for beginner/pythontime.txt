@@ -1,1 +1,0 @@
-2021-10-08 18:40:14.588135,drink water at :2021-10-08 18:40:21.201813,eyes excercise at :2021-10-08 18:40:26.787504,physical exercise at :2021-10-08 18:49:22.362242,eyes excercise at :2021-10-08 18:49:28.206526,physical exercise at :2021-10-08 18:49:32.826804,drink water at :
